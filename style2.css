@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+    box-sizing: border-box;
+}
+p{
+    margin: 20px 0px;
+}
+
+body{
+    background-image:url(https://img.freepik.com/free-photo/closeup-shot-one-ginger-cat-hugging-licking-other-isolated-white-wall_181624-32893.jpg?w=2000);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-attachment: fixed;
+
+}
